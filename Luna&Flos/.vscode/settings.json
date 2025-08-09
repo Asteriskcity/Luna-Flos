@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "狀態基測試.sln"
+    "dotnet.defaultSolution": "Luna_Flos.sln"
 }
