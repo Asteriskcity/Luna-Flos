@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Setting/UI%20Toolkit/USS/USS_Transition.uss?fileID=7433441132597879392&amp;guid=5f0d992c7f533414d8e7c8416991caab&amp;type=3#USS_Transition" />
+    <ui:VisualElement name="Transition" picking-mode="Ignore" class="transition-image" style="transition-duration: 0.5s;" />
+</ui:UXML>

@@ -1,0 +1,30 @@
+.menu-button {
+    position: absolute;
+    height: 113px;
+    width: 307px;
+    top: 639px;
+    left: 1474px;
+    -unity-font: url('project://database/Assets/%E5%85%B6%E4%BB%96%E8%B3%87%E6%BA%90/SoukouMincho.ttf?fileID=12800000&guid=a1d0e54c8df4703498b38d5acef420b3&type=3#SoukouMincho');
+    font-size: 60px;
+    -unity-font-definition: url('project://database/Assets/%E5%85%B6%E4%BB%96%E8%B3%87%E6%BA%90/SoukouMincho%20SDF.asset?fileID=11400000&guid=cc90fe0c63c9aeb4a935c75e09fd8a10&type=2#SoukouMincho SDF');
+    -unity-font-style: normal;
+    color: rgb(255, 255, 255);
+    background-color: rgba(188, 188, 188, 0);
+    letter-spacing: 8px;
+    text-shadow: 4.2px 0 20px rgb(147, 147, 147);
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+}
+
+.menu-button:hover {
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out-bounce;
+    scale: 1.2 1.2;
+    transform-origin: center;
+}
+
+.menu-button:active {
+    transition-duration: 0.2s;
+    color: rgba(255, 255, 255, 0.57);
+    scale: 0.8 0.8;
+    transition-timing-function: ease-out-bounce;
+}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c5917100529fe945aedd6addf88b9ee, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  movespeed: 10
+  DoubleJump: 0
+  jumpforce: 15
+  coyoteTime: 0.2
+  VariableJumpHeight: 0.3
+  DashPower: 30
+  DashTime: 0.2
+  DashCD: 1
+  StunTime: 0.5
+  IFrameTime: 1.5
+  LandDust: {fileID: 5695454676169896586, guid: e00a99870861f924e82105c2f62caab9, type: 3}
+  MoveDust: {fileID: 2310387905727842114, guid: 8ab0e50587720e2418e806da96b9f192, type: 3}

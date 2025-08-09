@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Setting/UI%20Toolkit/USS/MenuScreen.uss?fileID=7433441132597879392&amp;guid=3e7d5157eb0604645bd5c1d99e5abb10&amp;type=3#MenuScreen" />
+    <ui:VisualElement name="MenuScreen" style="flex-grow: 1;">
+        <ui:VisualElement name="MenuBackground" style="flex-grow: 1; background-image: url(&apos;project://database/Assets/Sprite/Tittleimage.png?fileID=2800000&amp;guid=144c71762140f0845b6fbbeabbe22fdf&amp;type=3#Tittleimage&apos;); -unity-background-scale-mode: scale-and-crop; -unity-background-image-tint-color: rgb(255, 255, 255);">
+            <ui:VisualElement name="Menu-LOGO" style="flex-grow: 1; position: relative; height: 489px; width: 545px; top: -79px; left: 1337px; background-image: url(&apos;project://database/Assets/Sprite/LOGO.png?fileID=21300000&amp;guid=16471c60d580e274d9bee38e2e133678&amp;type=3#LOGO&apos;); -unity-background-scale-mode: scale-to-fit;" />
+            <ui:Button text="Quit" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Menu-quit-button" class="menu-button" style="top: 10px; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; position: relative; left: 1393px;" />
+            <ui:Button text="Start" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Menu-start-button" class="menu-button" style="border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; top: -312px; left: 1450px; position: relative;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

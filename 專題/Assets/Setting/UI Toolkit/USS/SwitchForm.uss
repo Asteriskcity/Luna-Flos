@@ -1,0 +1,22 @@
+.weapon-bar-sprite {
+    flex-grow: 1;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background-image: url('project://database/Assets/Sprite/TestPlayer/f6a7ce8f1e5bdcc6355e8d84d92ded40.jpg?fileID=21300000&guid=753718b2cf0fc534196d5fb1931a1601&type=3#f6a7ce8f1e5bdcc6355e8d84d92ded40');
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.SwitchBackground {
+    flex-grow: 1;
+    background-color: rgba(0, 0, 0, 0.98);
+}
+
+.button-container {
+    flex-grow: 1;
+}
